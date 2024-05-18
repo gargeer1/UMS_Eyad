@@ -1,0 +1,40 @@
+# Sample input data for testing the program
+
+# Adding colleges
+College: Engineering
+College: Business
+College: Arts and Humanities
+
+# Adding departments
+Department: Computer Science, Engineering
+Department: Finance, Business
+Department: English Literature, Arts and Humanities
+
+# Enrolling students in courses
+Enroll: JohnDoe, CS101
+Enroll: JaneSmith, FIN201
+Enroll: MichaelBrown, ENG101
+Enroll: EmilyJones, CS101
+Enroll: EmilyJones, ENG101
+
+# Teaching courses by academic staff
+Teach: ProfSmith, CS101
+Teach: ProfJohnson, FIN201
+Teach: ProfDavis, ENG101
+
+# Grading assignments by academic staff
+Grade: CS101, JohnDoe, 85
+Grade: CS101, EmilyJones, 92
+Grade: FIN201, JaneSmith, 78
+Grade: ENG101, MichaelBrown, 88
+Grade: ENG101, EmilyJones, 95
+
+# Other sample data
+User: JohnDoe, Student, john@example.com
+User: JaneSmith, Student, jane@example.com
+User: ProfSmith, AcademicStaff, profsmith@example.com
+User: ProfJohnson, AcademicStaff, profjohnson@example.com
+User: ProfDavis, AcademicStaff, profdavis@example.com
+Course: CS101, Introduction to Computer Science, 3, Computer Science
+Course: FIN201, Financial Management, 4, Finance
+Course: ENG101, English Literature, 3, English Literature
